@@ -1,0 +1,32 @@
+body{
+		background-color: rgb(135, 206, 250);
+	font-style:italic;
+	font-family: sans-serif;
+}
+h1 {
+  color: green;
+  font-family: verdana;
+  font-size: 300%;
+}
+p  {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+}
+ol {
+	color: red;
+  font-family: aries;
+  font-size: 130%;
+}
+h2 {
+	color: yellow;
+  font-family: verdana;
+  font-size: 200%
+
+}
+
+	
+
+
+	
+

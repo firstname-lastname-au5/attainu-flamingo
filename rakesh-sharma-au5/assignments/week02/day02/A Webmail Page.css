@@ -1,0 +1,75 @@
+body{
+	background-color: pink
+	border-collapse:collapse;
+	border: solid 2px;
+	padding-bottom: 570px;
+}
+
+
+ul{
+	border: solid 2px;
+	margin-left: 20px;
+	padding-right: 150px;
+	padding-bottom: 200px;
+	padding-top: 0px;
+	float: left;
+}
+ table {
+  border-collapse: collapse;
+  width: 70%;
+  height:450px;
+  text-align: center;
+  float: right;
+ 
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin-right: 30px;
+}
+td{
+	padding-bottom: 80px;
+}
+th{
+	background-color: grey
+
+
+}	
+h3{
+	border: solid 2px; 
+	float:bottom;
+	padding-right: 200px;
+	position: absolute;
+	margin-right: 200px;
+	margin-bottom: 10px;
+	margin-top: 500px;
+	margin-left: 400px;
+	padding-left: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+header {
+  background-color: grey;
+  border: solid 2px;
+  padding-left: 10px;
+  padding-bottom: 4px;
+  margin: 2px;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  padding-top: 2px;
+  margin-top: 2px;
+
+}
+
+
+
+
+
+
+
+	
+
+
+	
+
